@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+langchain==0.1.0
+langchain-openai==0.0.2
+openai==1.6.1
